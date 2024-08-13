@@ -1,0 +1,19 @@
+div { 
+    background-color: black;
+    height: 35px;
+    padding-top: 10px;
+}
+a {
+    color: beige;
+    font-weight: bold;
+    text-decoration: none;
+    border : solid rgb(151, 174, 56) 2px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 3px;
+   
+}
+h1 {
+    text-decoration: underline;
+}
